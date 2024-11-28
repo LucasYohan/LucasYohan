@@ -8,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBV-pdp7hfUaY9aDsWMJWtN6d-yeOES6MfsEl3gZM96JmRZW-HP2-Mhw_&s=10" width="40" height="40"/>
 </div>
 
 <div>
