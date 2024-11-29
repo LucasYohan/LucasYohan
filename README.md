@@ -14,6 +14,13 @@
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="40" height="40"/>
 </div>
 
+- 📫 Como você me encontra:
+
+<a href="https://www.instagram.com/_.y0h44n._/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:marksous@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcos-costa-de-sousa-34348910/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <div>
 <a href= "https://github.com/LucasYohan">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasYohan&layout=compact&langs_count=8&theme=dracula"/>
