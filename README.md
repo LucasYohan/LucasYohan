@@ -14,7 +14,7 @@
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="40" height="40"/>
 </div>
 
-- 📫 Como você me encontra:
+- 📫 Como você pode me contatar:
 <div>
 <a href = "mailto:lucasyohanfmarinho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/lucas-yohan-fran%C3%A7a-marinho-72160628b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
