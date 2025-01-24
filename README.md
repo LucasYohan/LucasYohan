@@ -1,12 +1,12 @@
 # 🖥 Lucas Yohan
 **`Desenvolvedor Web`**
-### 🛠 Minhas experiencias:
+### 🛠 `Minhas experiencias`:
 - 🔭 No momento, ainda não me encontro no mercado de trabalho na área de T.I. Sigo atualmente na realização do meu TCC na ETEC de Embu e tambem a procura da minha primeira oportunidade na área da tecnologia!
   ##
-### 📘 Cursando:
+### 📘 `Cursando`:
 - 🌱 Como citei, estudo na ETEC de Embu, mais especificamente no curso de ADS (Análise e Desenvolvimento de Sistemas), na qual sigo aprendendo diversas tecnologias, mas atualmente com o foco em Node.JS e ReactJS!
   ##
-### ⚙ Conhecimentos:
+### ⚙ `Conhecimentos`:
 - ⌨ As principais tecnologias que tenho conhecimento atualmente são: HTML, CSS, JavaSript (aprendendo e me incrementando em ReactJS e Node.JS), MySQL, React-Native e C#!
 <br>
 <div>
@@ -22,7 +22,7 @@
 <br>
 
 ##
-### 📱 Contatos:
+### 📱 `Contatos`:
 - 📫 Como você pode me contatar:
 <div>
 <a href = "mailto:lucasyohanfmarinho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -30,7 +30,7 @@
 </div>
 
 ##
-### 🔢 Estátisticas:
+### 🔢 `Estátisticas`:
 <div>
 <a href= "https://github.com/LucasYohan">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasYohan&layout=compact&langs_count=60&theme=dracula"/>
