@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil!!;Meu+nome+é+Lucas+Yohan;Seja+bem+vindo+:D)](https://git.io/typing-svg)
 
-# 🖥 Lucas Yohan
-**`Desenvolvedor Web`**
 ### 🛠 `Minhas experiencias`:
 - 🔭 No momento, ainda não me encontro no mercado de trabalho na área de T.I. Sigo atualmente na realização do meu TCC na ETEC de Embu e tambem a procura da minha primeira oportunidade na área da tecnologia!
   ##
