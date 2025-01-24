@@ -30,7 +30,7 @@
 </div>
 
 ##
-### 🔢 `Estátisticas`:
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> `Estátisticas`:
 <div>
 <a href= "https://github.com/LucasYohan">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasYohan&layout=compact&langs_count=60&theme=dracula"/>
