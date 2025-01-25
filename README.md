@@ -15,9 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" align="left"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" align="left"/>
-  <img    src="https://camo.githubusercontent.com/2044b98d3b416afd5421b8786c8971d3c45db42408c594763704025c79d53827/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617a75726573716c64617461626173652f617a75726573716c64617461626173652d6f726967696e616c2e737667" width="40" height="40" align="left"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40" height="40" align="left"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" align="left"/>
+<img    src="https://camo.githubusercontent.com/2044b98d3b416afd5421b8786c8971d3c45db42408c594763704025c79d53827/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617a75726573716c64617461626173652f617a75726573716c64617461626173652d6f726967696e616c2e737667" width="40" height="40" align="left"/>
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="40" height="40" align="left"/>
 </div>
 <br>
