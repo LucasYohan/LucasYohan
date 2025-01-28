@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil!!;Meu+nome+é+Lucas+Yohan!;Seja+bem+vindo+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil!!;Meu+nome+é+Lucas+Yohan!;Seja+bem+vindo+:D)](https://git.io/typing-svg)
 
 ### 🛠 `Minhas experiencias`:
 - 🔭 No momento, ainda não me encontro no mercado de trabalho na área de T.I. Sigo atualmente na realização do meu TCC na ETEC de Embu e tambem a procura da minha primeira oportunidade na área da tecnologia!
