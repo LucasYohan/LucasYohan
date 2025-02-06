@@ -9,7 +9,7 @@
 - 🌱 Como citei, estudo na ETEC de Embu, mais especificamente no curso de ADS (Análise e Desenvolvimento de Sistemas), na qual sigo aprendendo diversas tecnologias, mas atualmente com o foco em Node.JS e ReactJS!
   ##
 ### ⚙ `Conhecimentos`:
-- ⌨ As principais tecnologias que tenho conhecimento atualmente são: HTML, CSS, JavaSript (aprendendo e me incrementando em ReactJS e Node.JS), MySQL, React-Native e C#!
+- ⌨ As principais tecnologias que tenho conhecimento atualmente são: HTML, CSS, JavaSript, ReactJS, Node.JS, MySQL, React-Native e C#!
 <br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" align="left" />
