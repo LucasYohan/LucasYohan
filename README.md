@@ -3,13 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+Perfil!!;Meu+nome+é+Lucas+Yohan!;Seja+bem+vindo+:D)](https://git.io/typing-svg)
 
 ### 🛠 `Minhas experiencias`:
-- 🔭 No momento, ainda não me encontro no mercado de trabalho na área de T.I. Sigo atualmente na realização do meu TCC na ETEC de Embu e tambem a procura da minha primeira oportunidade na área da tecnologia!
+- No momento, ainda não me encontro no mercado de trabalho na área de T.I. Sigo atualmente na realização do meu TCC na ETEC de Embu e tambem a procura da minha primeira oportunidade na área da tecnologia!
   ##
 ### 📘 `Cursando`:
-- 🌱 Como citei, estudo na ETEC de Embu, mais especificamente no curso de ADS (Análise e Desenvolvimento de Sistemas), na qual sigo aprendendo diversas tecnologias, mas atualmente com o foco em Node.JS e ReactJS!
+- Técnico em Análise e Desenvolvimento de Sistemas - ETEC de Embu
   ##
 ### ⚙ `Conhecimentos`:
-- ⌨ As principais tecnologias que tenho conhecimento atualmente são: HTML, CSS, JavaSript, ReactJS, Node.JS, MySQL, React-Native e C#!
 <br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" align="left" />
@@ -25,7 +24,6 @@
 
 ##
 ### 📱 `Contatos`:
-- 📫 Como você pode me contatar:
 <div>
 <a href = "mailto:lucasyohanfmarinho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/lucas-yohan-fran%C3%A7a-marinho-72160628b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
