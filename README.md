@@ -34,5 +34,5 @@
 <div>
 <a href= "https://github.com/LucasYohan">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasYohan&layout=compact&langs_count=60&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasYohan&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasYohan&show_icons=false&theme=dracula&include_all_commits=false&count_private=true"/>
 </div>
