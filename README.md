@@ -5,7 +5,7 @@
 ### 🛠 `Minhas experiencias`:
 - Experiencia academica com tecnlogias focadas no desenvolvimento web, como ReactJS e NodeJS. A procura da primeira oportunidade no mercado de trabalho.
   ##
-### 📘 `Cursando`:
+### 📘 `Formações`:
 - Técnico em Análise e Desenvolvimento de Sistemas - ETEC de Embu - Finalizado
   ##
 ### ⚙ `Conhecimentos`:
