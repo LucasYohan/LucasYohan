@@ -36,8 +36,6 @@ Atualmente estou em busca da minha **primeira oportunidade profissional** na ár
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=LucasYohan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=LucasYohan&layout=compact&langs_count=7&theme=tokyonight"/>
