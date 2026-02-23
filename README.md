@@ -14,6 +14,9 @@ Atualmente estou em busca da minha **primeira oportunidade profissional** na ár
 - 🎯 **Técnico em Análise e Desenvolvimento de Sistemas** — *ETEC de Embu*  
   Finalizado ✅
 
+- 🎯 **Superior em Análise e Desenvolvimento de Sistemas** — *UFBRA*  
+  Em andamento
+
 ---
 
 ### ⚙️ Conhecimentos
